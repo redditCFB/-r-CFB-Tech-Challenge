@@ -16,7 +16,7 @@ The link above has a version of our https://banners.redditcfb.com site that show
 * Modify the HTML to add contextual info.
 * Add JS for additional functionality.
 
-**Desired Output:** A link to your saved fork of the codepen. Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge - Web Development)!
+**Desired Output:** A link to your saved fork of the codepen. Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge%20-%20Web%20Development)!
 
 ## SQL
 
@@ -36,7 +36,7 @@ Your task is to use information in either of these two tables to come to a concl
 * What G5 teams had the most talkative users during this period?
 * Which teams had the highest ratio of karma to comments?
 
-**Desired Output:** A google doc or google spreadsheet that best articulates your finding. Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge - SQL)!
+**Desired Output:** A google doc or google spreadsheet that best articulates your finding. Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge%20-%20SQL)!
 
 ### Python
 
@@ -55,10 +55,10 @@ Your task is to build on this script to do something interesting. Suggestions:
 * Which teams besides those playing were the chattiest?
 * What did one team tend to say but not the other?
 
-**Desired Output:** A link to your modified python code, explanation, and sample output. Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge - Python)!
+**Desired Output:** A link to your modified python code, explanation, and sample output. Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge%20-%20Python)!
 
 ### Design
 
 The biggest upset of the 2023 season has just happened! Unbelievably, [team of your choice] pulled off a massive victory over top 10-ranked [team of your choice]. As is our tradition on /r/CFB, the banner is updated to reflect this event. Here’s a big album of [“vandalisms” that never got used](https://imgur.com/a/q9oEUcu)​​ for inspiration. Your job is to make an image to include in the banner that celebrates the upset, is funny (but not *too* mean), and looks good at the size displayed on the banner (see https://banners.redditcfb.com). You can make your image at any size, but scale it down to 130x120 pixels because that’s what our banner uses.  Feel free to use any image editing software you like.
 
-**Desired Output:** An imgur link or album with your creation(s). Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge - Design)!
+**Desired Output:** An imgur link or album with your creation(s). Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge%20-%20Design)!
