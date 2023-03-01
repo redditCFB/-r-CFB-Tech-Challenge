@@ -13,7 +13,7 @@ Here are some open-ended problems below that we'd love to see what you come up w
 
 You're welcome to tackle one of them, or if you have interest as many as you like.
 
-### Web Development
+## Web Development
 
 ### [Codepen Link](https://codepen.io/backonydraco/pen/XWPMagR)
 
@@ -45,7 +45,7 @@ Your task is to use information in either of these two tables to come to a concl
 
 **Desired Output:** A google doc or google spreadsheet that best articulates your finding. Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge%20-%20SQL)!
 
-### Python
+## Python
 
 ### [Python Script](https://github.com/redditCFB/-r-CFB-Tech-Challenge/blob/main/gamethreadscraper.py)
 
@@ -64,7 +64,7 @@ Your task is to build on this script to do something interesting. Suggestions:
 
 **Desired Output:** A link to your modified python code, explanation, and sample output. Share the link with us by [sending us a modmail](https://old.reddit.com/message/compose?to=/r/CFB&subject=Tech%20Challenge%20-%20Python)!
 
-### Design
+## Design
 
 The biggest upset of the 2023 season has just happened! Unbelievably, [team of your choice] pulled off a massive victory over top 10-ranked [team of your choice]. As is our tradition on /r/CFB, the banner is updated to reflect this event. Here’s a big album of [“vandalisms” that never got used](https://imgur.com/a/q9oEUcu)​​ for inspiration. Your job is to make an image to include in the banner that celebrates the upset, is funny (but not *too* mean), and looks good at the size displayed on the banner (see https://banners.redditcfb.com). You can make your image at any size, but scale it down to 130x120 pixels because that’s what our banner uses.  Feel free to use any image editing software you like.
 
