@@ -4,7 +4,14 @@
 
 /r/CFB has a suite of tools that's pretty neat. We're a volunteer team, and here are a few short challenges to give you a taste of what the tech side of /r/CFB is like! Most of our work is done in Python, SQL, and some PHP. Background in API design could be helpful, too. We also can always use help with art and design.
 
-Here are some open-ended problems below that we'd love to see what you come up with. We'd be interested in what you can do with this data on a recurring basis, so feel free to attempt it any time!
+Here are some open-ended problems below that we'd love to see what you come up with. We'd be interested in what you can do with this data on a recurring basis, so feel free to attempt it any time! There are 4 challenges themed around:
+
+* Web Development
+* SQL
+* Python
+* Design
+
+You're welcome to tackle one of them, or if you have interest as many as you like.
 
 ### Web Development
 
