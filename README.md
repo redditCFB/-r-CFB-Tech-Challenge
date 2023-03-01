@@ -1,4 +1,4 @@
-# 2020 /r/CFB Tech Challenge
+# 2023 /r/CFB Tech Challenge
 
 ## Overview
 
