@@ -49,7 +49,7 @@ Your task is to use information in either of these two tables to come to a concl
 
 ### [Python Script](https://github.com/redditCFB/-r-CFB-Tech-Challenge/blob/main/gamethreadscraper.py)
 
-Above is a Python script that takes the [Post Game Thread from this year's Peach Bowl Semifinal](https://old.reddit.com/r/CFB/comments/100cbyw/postgame_thread_georgia_defeats_ohio_state_4241/) and returns comments by users with Georgia or Ohio State flair that contain a certain keyword. Download this and save it under the name 'gamethreadscraper.py'. You'll need both Python and [PRAW]https://praw.readthedocs.io/en/v7.7.0/getting_started/quick_start.html).
+Above is a Python script that takes the [Post Game Thread from this year's Peach Bowl Semifinal](https://old.reddit.com/r/CFB/comments/100cbyw/postgame_thread_georgia_defeats_ohio_state_4241/) and returns comments by users with Georgia or Ohio State flair that contain a certain keyword. Download this and save it under the name 'gamethreadscraper.py'. You'll need both Python and [PRAW](https://praw.readthedocs.io/en/v7.7.0/getting_started/quick_start.html).
 
 To use it, simply run the script and put the keyword after it, for example you could run the command:
 
